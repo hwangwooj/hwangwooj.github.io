@@ -8,8 +8,7 @@ labels:
   - Software Engineering
   - Javascript
 ---
-
-<img class="ui tiny left circular floated image" src="hwangwooj.github.io/images/스크린샷 2019-01-16 오후 9.00.41.png">
+<img class="ui centered medium image" src="/images/스크린샷 2019-01-16 오후 9.00.41.png">
 
 The term ‘engineering’ gives people some kind of prejudices that it is going to be difficult and boring. I myself also thought ICS 314 course would be difficult because I used to be biased against “software engineering”. However, it turned out to be not as bad as I had imagined. Even though I am at the beginning of this course and there is still a long way to go, I was already able to enjoy this course due to organized objectives, a bunch of useful resources, and Javascript, of course. 
 
