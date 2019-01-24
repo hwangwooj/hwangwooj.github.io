@@ -11,6 +11,8 @@ labels:
 
 <img class="ui centered large image" src="../images/스크린샷 2019-01-23 오후 10.46.40.png">
 
+
+
 ## Software Engineering & Communication
 
 One of the characteristics of communication is that we can achieve exactly what we need through effective communication. This also works for software developers in a similar way whenever they need some advice on technical issues that they cannot solve themselves or feedbacks so that they can develop in better ways. Good communication among developers usually leads to high quality software programs. If that is the case, what should developers do in order to form good communication? They should know how to ask smart questions. For this essay, I am going to use good and bad examples from StackOverflow and compare those examples to explain why smart questions are important for smart software engineers. 
