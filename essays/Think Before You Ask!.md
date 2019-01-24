@@ -9,7 +9,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="ui large left floated image" src="../images/스크린샷 2019-01-23 오후 10.46.40.png">
+<img class="ui centered large image" src="../images/스크린샷 2019-01-23 오후 10.46.40.png">
 
 ## Software Engineering & Communication
 
