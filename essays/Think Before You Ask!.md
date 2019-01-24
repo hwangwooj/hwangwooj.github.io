@@ -81,7 +81,10 @@ It is not guaranteed that everyone can enjoy the benefit of StackOverflow with a
 ```
 Q: Is it better to develop on Mac or Windows?
 
-I have noticed a lot of developer these day developing on Macs. I have never use one for an extended period of time or to develop. I was thinking of investing in one for programming purposes but don't have sufficient knowledge in pros/cons of developing on Mac OS X or Windows. I was hoping you all could help provide guidance as to which platform is better suited for development?
+I have noticed a lot of developer these day developing on Macs. 
+I have never use one for an extended period of time or to develop. 
+I was thinking of investing in one for programming purposes but don't have sufficient knowledge in pros/cons of developing on Mac OS X or Windows. 
+I was hoping you all could help provide guidance as to which platform is better suited for development?
 
 Thanks in advance :)
 
