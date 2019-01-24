@@ -69,6 +69,8 @@ My first thought was that sorting brings the data into the cache, but then I tho
 -The code is summing up some independent terms, and the order should not matter.
 
 ```
+URL: https://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array
+
 This question seems to be a good example in many ways. First, a person who asked this question on StackOverflow clearly stated what his question is and then asked in detail at the end of his post. Second, he clearly showed how hard he had worked on his problem and exactly where he had faced an issue while he was working on it. The one who asked this question showed organized procedure so that other developers can quickly figure out the problem and answer the question. Lastly, this question seems very thought-provoking because lots of developers tried answering this question and a lot of users gave points to this question for being useful enough.
 
 
@@ -85,6 +87,8 @@ Thanks in advance :)
 
 **No Flame Wars Please, hoping we can keep this civilized. :)
 ```
+URL: https://stackoverflow.com/questions/3216018/is-it-better-to-develop-on-mac-or-windows
+
 This question seems to be a bad example in every way. This kind of question is everywhere if you search on google. This question was posted about a decade ago and only 4 developers have answered this question and they all said “it depends”. This question is more like a “trivial question based on a simple curiosity” rather than problem solving stuff. There is no evidence that a person who asked this question tried hard to take care of this matter by himself/herself. In other words, this question is “not smart” at all. 
 
 ## Conclusion
