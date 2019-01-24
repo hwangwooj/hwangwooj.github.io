@@ -88,4 +88,4 @@ Thanks in advance :)
 This question seems to be a bad example in every way. This kind of question is everywhere if you search on google. This question was posted about a decade ago and only 4 developers have answered this question and they all said “it depends”. This question is more like a “trivial question based on a simple curiosity” rather than problem solving stuff. There is no evidence that a person who asked this question tried hard to take care of this matter by himself/herself. In other words, this question is “not smart” at all. 
 
 ## Conclusion
-At first I thought I could ask anything regarding computer science on StackOverflow. But after I read the guidelines provided by Eric Raymond and found some examples on StackOverflow, I was able to change my attitude toward StackOverflow and furthermore, toward communication skills of software engineers. 
+At first, I thought I could ask anything regarding computer science on StackOverflow. But after I read the guidelines provided by Eric Raymond and found some examples on StackOverflow, I was able to change my attitude toward StackOverflow and furthermore, toward communication skills of software engineers. 
