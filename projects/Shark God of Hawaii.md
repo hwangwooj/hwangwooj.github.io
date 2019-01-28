@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sharkGod.png
+image: images/sharkGod.png 
 title: Shark God of Hawaii (KCC ENG272M)
 permalink: assignment/Hawaiian Literature
 # All dates must be YYYY-MM-DD format!
