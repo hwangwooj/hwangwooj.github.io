@@ -17,4 +17,6 @@ This bank database project is the first project from ICS 212 class. The purpose 
 
 Although this program looks trivial, some important aspects of data structure and C language were integrated in order to create this program. For example, each record is stored as a form of list and connected to each other using pointers. Designing the program and dealing with the data stored in  linked lists made me learn lots of things about data structure and C language. 
 
+Source: <a href="https://github.com/hwangwooj/Bank-Database-ICS212-project1"><i class="large github icon "></i>hwangwooj/Bank-Database-ICS212-project1</a>
+
 
