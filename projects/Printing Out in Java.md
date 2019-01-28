@@ -10,8 +10,7 @@ labels:
   - Java
 summary: Creating a Java program that prints out the contents of a file in different ways.
 ---
-
-<img class="ui large middle floated rounded image" src="../images/H00.png">
+<img class="ui centered big image" src="/images/H00.png">
 
 The purpose of this assignment was to create a Java program that prints out the contents of a file in different ways. There was a simple text file provided for the assignment,Hello.txt, and our objective was to print out the contents as binary, hexadecimal, and strings UTF-8 encoding. 
 
