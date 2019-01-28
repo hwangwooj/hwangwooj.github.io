@@ -85,10 +85,15 @@
   ],
   "work": [ 
     {
-      "workplace": "Le Ciel Hawaii Inc",
-      "area": "photographer assistant/office management",
+      "company": "Le Ciel Hawaii Inc",
+      "position": "photographer assistant/office management",
       "startDate": "2014-07-08",
       "endDate": "2015-07-01"
+      "highlights": [
+        "Assisting photographer while shooting the honeymoon photographing.",
+        "Editing photos taken by photographers using Adobe Lightroom",
+        "Scheduling & managing reservation between customers and photographers"
+      ]
     }
   ],
   "volunteer": [
