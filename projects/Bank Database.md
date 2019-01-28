@@ -11,7 +11,7 @@ labels:
 summary: Bank Database using object orientation & linked lists
 ---
 
-<img class="ui medium middle floated rounded image" src="../images/LinkedLists.png">
+<img class="ui large middle floated rounded image" src="../images/LinkedLists.png">
 
 This bank database project is the first project from ICS 212 class. The purpose of this project is to make a bank database program which is able to add, delete, or display the bank account information to the user. Bank account information such as account number, name, address are stored in each record using one of important data structures ‘linked lists’. The user can access to the records which are stored in the database using various functions such as addRecord, printRecord, or deleteRecord. 
 
