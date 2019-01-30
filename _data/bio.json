@@ -96,7 +96,18 @@
       ]
     }
   ],
-  "volunteer": [
+  "volunteer": [ {
+      "site": "Christ United Methodist Church ",
+      "position": "Teaching assistant ",
+      "startDate": "2015-09-01",
+      "endDate": "2015-12-12",
+      "highlights" :[
+        "Assisting Korean teacher during the Korean lecturing",
+        "Take part in regular meetings regarding improvement for language school"
+        
+      ]
+    }
+    
   ],
   "awards": [
   ],
