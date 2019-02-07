@@ -11,7 +11,6 @@ labels:
 <img class="ui centered large image" src="../images/">
 
 
-
 ## Analogy between writing an essay and coding
 
 A good essay not only cares whether the contents that an essay contains are good enough, but also cares whether an essay was written in right style and format. Coding is not different from writing an essay. Coding is actually very similar to writing an essay in terms of how an essay is written. A program would run without any problem even though source codes are not written under the coding standards. However, when programmers take a look at those unorganized source codes, they would not say those codes are good enough even though a program runs perfectly. Because source codes that disregard the coding standards are difficult to be reviewed by others, or not even by those who actually wrote codes. 
