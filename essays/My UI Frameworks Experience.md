@@ -16,7 +16,7 @@ First of all, let us be more clear about UI frameworks. UI is the abbreviation f
 ## What is the benefit from using UI frameworks?
 I have been using semantic UI since last week for ICS314 course and my experience with semantic UI is fine. I was able to use some useful components while I was working on my assignment and a quiz. Using UI frameworks allowed me to make my web page look more beautiful. But looking beautiful is not the only benefit from using UI frameworks. The thing that I like most about using UI frameworks is that I could save lots of time. For example, there was an exercise on freeCodeCamp that I had to modify some parts of codes so that a penguin pops up on the screen. All those lines of codes were written only to make a penguin visible to users. By using UI frameworks, we can reduce lines of codes into one. If users have to work on their web development without using UI frameworks, it is obvious that they should spend a lot of time dealing with some components which are just small parts of the whole web program.
 
-<img class="ui centered big image" src="../images/happy.png">
+<img class="ui centered big image" src="../images/happy.jpg">
 
 ## Conclusion
 However, the reason why I said my experience was fine is because UI frameworks have lots of information, so it is difficult to use them efficiently without being familiar with them. This is similar to a situation when people use a book reference which is over 500 pages long. 
