@@ -19,4 +19,4 @@ I have been using semantic UI since last week for ICS314 course and my experienc
 <img class="ui centered big image" src="../images/happy.jpg">
 
 ## Conclusion
-However, the reason why I said my experience was fine is because UI frameworks have lots of information, so it is difficult to use them efficiently without being familiar with them. This is similar to a situation when people use a book reference which is over 500 pages long. 
+However, the reason why I said my experience was fine but not perfect is because UI frameworks have lots of information, so it is difficult to use them efficiently without being familiar with them. This is similar to a situation when people use a book reference which is over 500 pages long. Even though a book contains useful information, people could get frustrated from reading a book which is 500 pages long. In order to deal with this problem, I spent extra time on looking through the semantic UI website so that I could become more familiar with frameworks. I easily had gotten confused before I looked through the website, but I got much better afterwards. 
