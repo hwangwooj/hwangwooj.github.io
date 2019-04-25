@@ -23,4 +23,5 @@ By definition, a design pattern is a general and reusable solution to a commonly
 
 ## My Application
 What I realized while learning design pattern module is that actually I have been using it without noticing. Iterator design pattern would be one of the most frequently used patterns for me. Iterator design pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. Life would be easier if we only need to use whether for loop or while loop, but things get complicated when we have to deal with collection of different data types along with complicated structure. Iterator design pattern allows me to iterate through data collection as desired. I was able to work efficiently since I didn't have to start from the scratch and also easily understand different kinds of algorithm with iterators.
+<br/>
 <img class="ui centered big image" src="/images/iterator.png">
