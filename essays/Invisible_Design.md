@@ -17,9 +17,11 @@ When I first noticed this ‘design patterns’ module on our course schedule, I
 <br/>
 
 <img class="ui centered image" src="/images/design_patterns.gif" size="big">
+
 ## Design Patterns
 By definition, a design pattern is a general and reusable solution to a commonly occurring problem in software design. It came to the fore by a book named "Design Patterns: Elements of Reusable Object-Oriented Software" which is also known as “Gang of Four”. A design pattern is more like a template which can be used depending on many different situations. Factory, Singleton, Observer, MVC are some of most famous design patterns in software engineering field. For example, this Factory problem description creates objects without exposing underlying logic, potentially returning objects associated with different classes. As a result, it returns some additional flexibilities such as objects from different classes.
 
 <img class="ui centered big image" src="/images/iterator.png">
+
 ## My Application
 What I realized while learning design pattern module is that actually I have been using it without noticing. Iterator design pattern would be one of the most frequently used patterns for me. Iterator design pattern provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation. Life would be easier if we only need to use whether for loop or while loop, but things get complicated when we have to deal with collection of different data types along with complicated structure. 
