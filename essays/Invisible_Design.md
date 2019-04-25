@@ -13,6 +13,7 @@ labels:
 ## First Impression
 When I first noticed this ‘design patterns’ module on our course schedule, I came up with something visually fancy and fashionable. Since I had no idea what this thing would be, I was quite surprised because I have never imagined that this ICS 314 course would also teach students something that graphic designers do. Well, I was totally ignorant. Design Patterns in software engineering is a far different from what normal people would easily imagine. 
 <br/>
+
 <img class="ui centered big image" src="/images/Design-Pattern.png">
 
 ## Design Patterns
