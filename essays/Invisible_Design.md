@@ -12,7 +12,7 @@ labels:
 <img class="ui centered big image" src="/images/Design-Pattern.png">
 
 When I first noticed this ‘design patterns’ module on our course schedule, I came up with something visually fancy and fashionable. Since I had no idea what this thing would be, I was quite surprised because I have never imagined that this ICS 314 course would also teach students something that graphic designers do. Well, I was totally ignorant. Design Patterns in software engineering is a far different from what normal people would easily imagine. 
-<img class="ui centered huge image" src="/images/design_patterns.gif" size="huge">
+<img class="ui centered image" src="/images/design_patterns.gif" size="big">
       
 By definition, a design pattern is a general and reusable solution to a commonly occurring problem in software design. It came to the fore by a book named "Design Patterns: Elements of Reusable Object-Oriented Software" which is also known as “Gang of Four”. A design pattern is more like a template which can be used depending on many different situations. Factory, Singleton, Observer, MVC are some of most famous design patterns in software engineering field. For example, this Factory problem description creates objects without exposing underlying logic, potentially returning objects associated with different classes. As a result, it returns some additional flexibilities such as objects from different classes.
 <img class="ui centered big image" src="/images/iterator.png">
