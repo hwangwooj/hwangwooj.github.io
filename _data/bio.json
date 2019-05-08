@@ -1,13 +1,13 @@
 {
-  "basics": { 
+  "basics": {
     "name": "Woojoon Hwang",
     "label": "Student",
-    "picture": "hwangwooj.github.io/images/hwang.jpeg",
+    "picture": "https://github.com/hwangwooj/hwangwooj.github.io/blob/master/images/hwang.jpeg?raw=true",
     "email": "hwangwoo@hawaii.edu",
     "phone": "808-256-0679",
     "website": "https://hwangwooj.github.io",
     "summary": "I am a junior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
-    "location": { 
+    "location": {
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
@@ -36,7 +36,7 @@
     {
       "name": "Database",
       "keywords": [
-       
+
       ]
     },
     {
@@ -83,7 +83,7 @@
       ]
     }
   ],
-  "work":[ 
+  "work":[
     {
       "company": "Le Ciel Hawaii Inc",
       "position": "photographer assistant/office management",
@@ -104,10 +104,10 @@
       "highlights" :[
         "Assisting Korean teacher during the Korean lecturing",
         "Take part in regular meetings regarding improvement for language school"
-        
+
       ]
     }
-    
+
   ],
   "awards": [
   ],
@@ -117,4 +117,4 @@
       "reference": ""
     }
   ]
-} 
+}
