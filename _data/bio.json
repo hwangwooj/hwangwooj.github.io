@@ -89,7 +89,7 @@
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
         "KOR 480: KOR Proficiency through Film",
-        "KOR 494: Intro Modern Korean Lit",
+        "KOR 494: Intro Modern Korean Lit"
       ]
     },
     {
@@ -106,7 +106,7 @@
         "MATH 241: Calculus I",
         "MATH 242: Calculus II",
         "MATH 243: Calculus III",
-        "MATH 244: Calculus IV",
+        "MATH 244: Calculus IV"
       ]
     }
   ],
@@ -123,7 +123,8 @@
       ]
     }
   ],
-  "volunteer": [ {
+  "volunteer": [
+    {
       "site": "Christ United Methodist Church ",
       "position": "Teaching assistant ",
       "startDate": "2015-09-01",
@@ -137,6 +138,12 @@
 
   ],
   "awards": [
+    {
+      "title": "Dean’s List Honoree",
+      "date": "2015-2016",
+      "awarder": "Kapi‘olani Community College",
+      "summary": "Scholarships awarded to incoming freshmen and continuing studenKapi‘olani Community College honors those students who earn a grade-point average of 3.5 or higher with 15 or more total credits accumulated over Fall and/or Spring and/or Summer semesters (of one academic year) by placing their name on the Dean’s List."
+    }
   ],
   "references": [
     {
