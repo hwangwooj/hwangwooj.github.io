@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Bank Database.png
+image: images/ManoaMunchies.jpg
 title: Manoa Munchies (UHM ICS314 project)
-permalink: projects/Bank Database
+permalink: projects/Munchyco
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-07
 labels:
