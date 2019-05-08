@@ -8,7 +8,7 @@
     "website": "https://hwangwooj.github.io",
     "summary": "I am a junior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
-      "address": "",
+      "address": "905 Spencer Street",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -78,8 +78,35 @@
       "studyType": "B.S.",
       "startDate": "2018-01-08",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.28",
       "courses": [
+        "BIOL 350: Sex Diffs in the Life Cycle",
+        "COM 350: Mediated Interpersonal Com",
+        "ICS 141: Discrete Math for CS I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 212: Program Structure",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "KOR 480: KOR Proficiency through Film",
+        "KOR 494: Intro Modern Korean Lit",
+      ]
+    },
+    {
+      "institution": "University of Hawaii: Kapi'olani Community College, Honolulu, Hawaii",
+      "area": "Liberal Arts",
+      "studyType": "A.A.",
+      "startDate": "2014-08-21",
+      "endDate": "2017-12-10",
+      "gpa": "3.68",
+      "courses": [
+        "COM 201: WI-Intro to Communication",
+        "ENG 272: WI-H-Lit-Hawai'i,Oceania&Asia",
+        "ICS 111: Intro to Computer Science I",
+        "MATH 241: Calculus I",
+        "MATH 242: Calculus II",
+        "MATH 243: Calculus III",
+        "MATH 244: Calculus IV",
       ]
     }
   ],
