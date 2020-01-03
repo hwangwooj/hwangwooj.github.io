@@ -6,7 +6,7 @@
     "email": "hwangwoo@hawaii.edu",
     "phone": "808-256-0679",
     "website": "https://hwangwooj.github.io",
-    "summary": "I am a junior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "summary": "I am a senior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
     "location": {
       "address": "905 Spencer Street",
       "postalCode": "96822",
@@ -45,7 +45,7 @@
       ]
     },
     {
-      "name": "AI",
+      "name": "Operating System",
       "keywords": [
       ]
     }
@@ -56,7 +56,7 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
+        "Unix",
         "Java",
         "Javascript",
       ]
@@ -78,18 +78,17 @@
       "studyType": "B.S.",
       "startDate": "2018-01-08",
       "endDate": "Present",
-      "gpa": "3.28",
+      "gpa": "3.49",
       "courses": [
-        "BIOL 350: Sex Diffs in the Life Cycle",
         "COM 350: Mediated Interpersonal Com",
-        "ICS 141: Discrete Math for CS I",
-        "ICS 211: Intro to Computer Science II",
         "ICS 212: Program Structure",
-        "ICS 241: Discrete Mathematics II",
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
-        "KOR 480: KOR Proficiency through Film",
-        "KOR 494: Intro Modern Korean Lit"
+        "ICS 321: Database Systems I",
+        "ICS 332: Operating Systems",
+        "ICS 414: Software Engineering II",
+        "ICS 451: Data Networks",
+        "ICS 469: Cognitive Science"
       ]
     },
     {
