@@ -18,9 +18,8 @@ This program generates an .ics file.
 It enables users to publish and share calendar information on the web and over email.
 <img class="ui centered medium image" src="/images/calendar(3).png">
 .ics files are often used for sending meeting requests to other users, who can import the events into their own calendars.
-<img class="ui centered medium image" src="/images/calendar(4).png">
-All you need to do is just download and open this file. It will automatically add info to your own calendar application.
 <img class="ui centered medium image" src="/images/calendar(5).png">
+All you need to do is just download and open this file. It will automatically add info to your own calendar application.
 
 
 Source: <a href="https://github.com/ics-414-summer-2019-team-fusilli/calendar-project"><i class="large github icon "></i>ics-414-summer-2019-team-fusilli/calendar-project</a>
