@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Woojoon Hwang",
-    "label": "Student",
+    "label": "Graduate",
     "picture": "https://github.com/hwangwooj/hwangwooj.github.io/blob/master/images/hwang.jpeg?raw=true",
     "email": "hwangwoo@hawaii.edu",
     "phone": "808-256-0679",
     "website": "https://hwangwooj.github.io",
-    "summary": "I am a senior studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "summary": "A graduate in Computer Science of UH Manoa",
     "location": {
       "address": "905 Spencer Street",
       "postalCode": "96822",
@@ -27,14 +27,14 @@
       },
       {
         "network": "Instagram",
-        "username": "wooh_21",
-        "url": "https://www.instagram.com/wooh_21/?hl=ko"
+        "username": "woo_h8",
+        "url": "https://www.instagram.com/woo_h8/?hl=ko"
       }
     ]
   },
   "interests": [
     {
-      "name": "Database",
+      "name": "Data Network",
       "keywords": [
 
       ]
@@ -55,10 +55,11 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
+        "C/C++",
         "Unix",
         "Java",
         "Javascript",
+        "Semantic UI"
       ]
     },
     {
@@ -74,21 +75,23 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2018-01-08",
       "endDate": "Present",
-      "gpa": "3.49",
+      "gpa": "3.58",
       "courses": [
-        "COM 350: Mediated Interpersonal Com",
         "ICS 212: Program Structure",
         "ICS 311: Algorithms",
+        "ICS 312: Machine-Lvl & Systems Programming",
         "ICS 314: Software Engineering I",
-        "ICS 321: Database Systems I",
         "ICS 332: Operating Systems",
         "ICS 414: Software Engineering II",
+        "ICS 427: Software Quality Assurance",
+        "ICS 432: Concurrent Programming",
         "ICS 451: Data Networks",
-        "ICS 469: Cognitive Science"
+        "ICS 469: Cognitive Science",
+        "ICS 485: Video Game Design"
       ]
     },
     {
@@ -110,6 +113,16 @@
     }
   ],
   "work":[
+    {
+      "company": "Shabuya",
+      "position": "server",
+      "startDate": "2019-05-01",
+      "endDate": "",
+      "highlights" :[
+        "Ensured greeting and serving all guests with friendly and polite manners",
+        "Regularly checked on guests to ensure satisfaction with each food course and drinks"
+      ]
+    },
     {
       "company": "Le Ciel Hawaii Inc",
       "position": "photographer assistant/office management",
@@ -142,6 +155,12 @@
       "date": "2015-2016",
       "awarder": "Kapi‘olani Community College",
       "summary": "Scholarships awarded to incoming freshmen and continuing studenKapi‘olani Community College honors those students who earn a grade-point average of 3.5 or higher with 15 or more total credits accumulated over Fall and/or Spring and/or Summer semesters (of one academic year) by placing their name on the Dean’s List."
+    },
+    {
+      "title": "Dean’s List Honoree",
+      "date": "2018-2019",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Undergraduate students are awarded the Dean’s List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
     }
   ],
   "references": [
